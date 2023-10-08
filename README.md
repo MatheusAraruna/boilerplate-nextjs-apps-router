@@ -1,4 +1,4 @@
-# boilerplate NextJS Apps Router
+# Boilerplate NextJS Apps Router
 ![ci](https://github.com/React-Avancado/boilerplate-apps-router/workflows/ci/badge.svg)
 ## What is inside?
 
